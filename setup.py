@@ -49,7 +49,6 @@ setup(
     install_requires=[
         "ecl",
         "ert",
-        "equinor-libres",
         "configsuite>=0.6",
         "numpy",
         "pandas>0.24",
